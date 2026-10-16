@@ -15,7 +15,7 @@ Short URLs (`/s/{code}`) are public and redirect to the original URL.
 Requires PHP 8.2+, Composer and MySQL.
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/vikash8412/sembark-url-shortener.git
 cd sembark-url-shortener
 composer install
 cp .env.example .env
